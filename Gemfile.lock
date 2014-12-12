@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    utilitybelt (1.0.0)
+      omnistruct
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    classy_struct (0.3.2)
+    minitest (5.4.3)
+    omnistruct (1.0.1)
+      classy_struct (~> 0.3, >= 0.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest (~> 5.4, >= 5.4.3)
+  utilitybelt!
