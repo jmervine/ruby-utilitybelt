@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = "utilitybelt"
-  s.version     = "1.0.0-pre1"
+  s.version     = "1.0.0-1"
 
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Joshua Mervine"]
